@@ -1,123 +1,97 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Pick Clash                                 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_id                                :                                            # Not yet on App Store.
+ios_app_country                           : us                                         # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
-                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+appstore_link                             :                                            # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :                                            # iOS only for now.
+presskit_download_link                    :                                            # No press kit available yet.
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_icon                                  : assets/appicon.png                        # App icon (pennant icon).
+app_name                                  : Pick Clash                                # App name.
+app_price                                 : Free                                      # Price displayed on landing page.
+app_description                           : A live sports prediction game that lets you make picks, earn rewards, and compete with friends.
 
-enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+enable_smart_app_banner                   : false                                     # No App Store ID yet, so disable.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
-linkedin_username                         :                                           
-linkedin_company                          :                                           
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
-youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+your_name                                 : yxm
+your_link                                 :                                           # No website yet.
+your_city                                 :
+email_address                             : pickclash@gmail.com
+linkedin_username                         :
+linkedin_company                          :
+facebook_username                         :
+instagram_username                        : pickclash
+twitter_username                          : pickclash
+github_username                           :
+youtube_username                          : pickclash
+mastodon_link                             :
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Real-Time Game Picks
+    description                           : Make predictions on live matchups and see results update as the action unfolds.
+    fontawesome_icon_name                 : bolt
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Competitive Leaderboards
+    description                           : Track your performance and climb the rankings against friends and other fans.
+    fontawesome_icon_name                 : trophy
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Virtual Coins & Game Modes
+    description                           : Use in-app currency to enter prediction modes and test different strategies.
+    fontawesome_icon_name                 : coins
+
+  - title                                 : Live Data Integration
+    description                           : Games, scores, and outcomes update automatically so your picks stay current.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Head-to-Head Challenges
+    description                           : Compete directly with friends in private matchups for bragging rights.
+    fontawesome_icon_name                 : users
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Season-Long Tracking
+    description                           : Monitor your accuracy, streaks, and overall performance across the season.
+    fontawesome_icon_name                 : chart-line
 
 
 
 # Theme Settings
-topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_color                              : "#0d1117"
+topbar_transparency                       : 0.85
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_color                       : "#0d1117"
+cover_overlay_transparency                : 0.75
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#0d1117"
 
-link_color                                : "#1d63ea"
+link_color                                : "#2ecc71"
 
 app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_price_color                           : "#2ecc71"
+app_description_color                     : "#cccccc"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_title_color                       : "#ffffff"
+feature_text_color                        : "#aaaaaa"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#2ecc71"
+feature_icons_background_color            : "#1a2a1a"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#aaaaaa"
+social_icons_background_color             : "#1a2a1a"
 
 footer_text_color                         : "#666666"
-
-
-
-
-
-
-
-
-
 
 
 

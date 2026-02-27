@@ -5,56 +5,91 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+February 27, 2025
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Pick Clash ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use the Pick Clash mobile application.
+
+**Please read this policy carefully. By using Pick Clash, you agree to the collection and use of information in accordance with this policy.**
 
 <br>
 
 ## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+### 1.1 Information you provide to us
+When you create an account or use Pick Clash, we may collect:
+- Your username and display name
+- Your email address
+- Any profile information you voluntarily provide
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+### 1.2 Information collected automatically
+When you use the app, we automatically collect certain information including:
+- Device type and operating system version
+- App usage data (screens visited, features used, time spent)
+- In-app activity such as picks made, coins spent, and game results
+
+### 1.3 Information from third parties
+We may receive information from third-party services used for authentication or analytics. These services have their own privacy policies governing how they handle your data.
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 2.0 How We Use Your Information
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+We use the information we collect to:
+1. Create and manage your Pick Clash account
+2. Power leaderboards and head-to-head features that require your username and stats
+3. Operate and improve the app's features and performance
+4. Send you notifications related to game results or app updates (if you opt in)
+5. Respond to customer support requests
 
-| Third Party | What is it used for? |
+<br>
+
+## 3.0 How We Share Your Information
+
+We do not sell your personal data. We may share limited information in the following circumstances:
+
+| Recipient | Purpose |
 | :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+| Service Providers | Infrastructure, analytics, and app functionality (e.g., hosting, crash reporting) |
+| Legal Authorities | If required by law or to protect the rights and safety of our users |
+
+Your username and in-app statistics (picks, points, leaderboard rank) are visible to other users of Pick Clash as part of the competitive features of the app.
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 4.0 In-App Currency
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+Pick Clash uses virtual in-app currency (coins and tokens). These are not real money, have no monetary value outside the app, and cannot be exchanged for cash. All in-app purchases, if any, are subject to Apple's App Store terms.
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 5.0 Data Retention and Deletion
+
+We retain your data for as long as your account is active or as needed to provide our services. You may request deletion of your account and associated data by contacting us at pickclash@gmail.com. We will process deletion requests within a reasonable timeframe.
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 6.0 Children's Privacy
+
+Pick Clash is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided us with personal information, please contact us and we will take steps to delete it.
+
+<br>
+
+## 7.0 Security
+
+We take reasonable measures to protect your information from unauthorized access, disclosure, or loss. However, no method of transmission over the Internet or electronic storage is 100% secure.
+
+<br>
+
+## 8.0 Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of changes by updating the "Last updated" date at the top of this page. Continued use of the app after changes constitutes your acceptance of the updated policy.
+
+<br>
+
+## 9.0 Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+**Email:** pickclash@gmail.com
