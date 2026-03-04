@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                        # App icon (pennant icon).
 app_name                                  : Pick Clash                                # App name.
 app_price                                 : Free                                      # Price displayed on landing page.
-app_description                           : A live sports prediction game that lets you make picks, earn rewards, and compete with friends.
+app_description                           : A sports pick platform built around college allegiance — test your skills and clash for bragging rights within your college community and beyond.
 
 enable_smart_app_banner                   : false                                     # No App Store ID yet, so disable.
 
@@ -37,29 +37,29 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Real-Time Game Picks
-    description                           : Make predictions on live matchups and see results update as the action unfolds.
-    fontawesome_icon_name                 : bolt
+  - title                                 : Choose Your College
+    description                           : Whether you're a current student, proud alum, or devoted supporter — claim your college allegiance and join the competition.
+    fontawesome_icon_name                 : graduation-cap
 
-  - title                                 : Competitive Leaderboards
-    description                           : Track your performance and climb the rankings against friends and other fans.
-    fontawesome_icon_name                 : trophy
+  - title                                 : Pick 'Em
+    description                           : Pick winners. Score points. Climb the ranks. A simple game to prove your game sense — every pick counts.
+    fontawesome_icon_name                 : check-circle
 
-  - title                                 : Virtual Coins & Game Modes
-    description                           : Use in-app currency to enter prediction modes and test different strategies.
+  - title                                 : Odds Picks
+    description                           : Wager virtual coins. Play real odds. Start with 1,000 coins — how far can you go?
     fontawesome_icon_name                 : coins
 
-  - title                                 : Live Data Integration
-    description                           : Games, scores, and outcomes update automatically so your picks stay current.
-    fontawesome_icon_name                 : sync
+  - title                                 : Leaderboard
+    description                           : Rank within your college community and against rivals. Students, alumni, and supporters — who will rise to the top?
+    fontawesome_icon_name                 : trophy
 
-  - title                                 : Head-to-Head Challenges
-    description                           : Compete directly with friends in private matchups for bragging rights.
+  - title                                 : Friends
+    description                           : Invite your friends. Clash to claim the crown. Who will be the GOAT of your squad?
     fontawesome_icon_name                 : users
 
-  - title                                 : Season-Long Tracking
-    description                           : Monitor your accuracy, streaks, and overall performance across the season.
-    fontawesome_icon_name                 : chart-line
+  - title                                 : Live Data Integration
+    description                           : Games, scores, and outcomes update automatically so your picks always stay current.
+    fontawesome_icon_name                 : sync
 
 
 

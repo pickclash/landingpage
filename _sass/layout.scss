@@ -39,12 +39,13 @@
 	padding-left: 15px;
 	padding-right: 15px;
 	grid-template-columns: repeat(12, 1fr);
-	grid-template-rows: 115px 876px auto auto auto;
+	grid-template-rows: 115px 876px auto auto auto auto;
 	grid-column-gap: 30px;
 	grid-template-areas:
 		"h h h h h h h h h h h h"
 		"p p p p p i i i i i i i"
 		"c c c c c c c c c c c c"
+		"m m m m m m m m m m m m"
 		"g g g g g g g g g g g g"
 		"f f f f f f f f f f f f";
 }
@@ -58,7 +59,7 @@
 
 	.container {
 		// Set up the container for the site content
-		grid-template-rows: 80px 811px auto auto auto;
+		grid-template-rows: 80px 811px auto auto auto auto;
 	}
 }
 
@@ -67,12 +68,13 @@
 	.container {
 		grid-column-gap: 0px;
 		grid-template-columns: 1;
-		grid-template-rows: 115px auto auto auto auto auto;
+		grid-template-rows: 115px auto auto auto auto auto auto;
 		grid-template-areas:
 			"h h h h h h h h h h h h"
 			"i i i i i i i i i i i i"
 			"p p p p p p p p p p p p"
 			"c c c c c c c c c c c c"
+			"m m m m m m m m m m m m"
 			"g g g g g g g g g g g g"
 			"f f f f f f f f f f f f";
 	}
@@ -752,5 +754,106 @@ footer {
 @media only screen and (max-width: 768px) {
 	.gallery-item {
 		width: 220px;
+	}
+}
+
+// Gallery centering fix
+.gallery-section {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.gallery-container {
+	justify-content: center;
+}
+
+// Game Modes Section
+
+.modes-section {
+	grid-area: m;
+	padding: 60px 0 20px;
+	width: 100%;
+}
+
+.modes-header {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.modes-title {
+	color: #ffffff;
+	font-size: 3rem;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+
+.modes-subtitle {
+	color: #aaaaaa;
+	font-size: 1.8rem;
+}
+
+.modes-cards {
+	display: flex;
+	gap: 30px;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.mode-card {
+	flex: 0 1 420px;
+	background: rgba(255, 255, 255, 0.05);
+	backdrop-filter: blur(12px);
+	-webkit-backdrop-filter: blur(12px);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	border-radius: 24px;
+	padding: 40px 36px;
+	text-align: center;
+	box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+	transition: transform 0.3s ease, box-shadow 0.3s ease, border 0.3s ease;
+}
+
+.mode-card:hover {
+	transform: translateY(-6px);
+	box-shadow: 0 18px 40px rgba(46, 204, 113, 0.25);
+	border: 1px solid rgba(46, 204, 113, 0.4);
+}
+
+.mode-icon {
+	font-size: 3.5rem;
+	color: #2ecc71;
+	margin-bottom: 20px;
+}
+
+.mode-name {
+	color: #ffffff;
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-bottom: 14px;
+}
+
+.mode-tagline {
+	color: #2ecc71;
+	font-size: 1.7rem;
+	font-weight: 600;
+	margin-bottom: 12px;
+	line-height: 1.4;
+}
+
+.mode-desc {
+	color: #aaaaaa;
+	font-size: 1.6rem;
+	line-height: 1.6;
+	margin-bottom: 6px;
+}
+
+@media only screen and (max-width: 768px) {
+	.mode-card {
+		flex: 0 1 100%;
+		padding: 30px 24px;
+	}
+
+	.modes-title {
+		font-size: 2.4rem;
 	}
 }
