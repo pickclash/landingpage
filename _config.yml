@@ -41,14 +41,6 @@ features                                  :
     description                           : Whether you're a current student, proud alum, or devoted supporter — claim your college allegiance and join the competition.
     fontawesome_icon_name                 : graduation-cap
 
-  - title                                 : Pick 'Em
-    description                           : Pick winners. Score points. Climb the ranks. A simple game to prove your game sense — every pick counts.
-    fontawesome_icon_name                 : check-circle
-
-  - title                                 : Odds Picks
-    description                           : Wager virtual coins. Play real odds. Start with 1,000 coins — how far can you go?
-    fontawesome_icon_name                 : coins
-
   - title                                 : Leaderboard
     description                           : Rank within your college community and against rivals. Students, alumni, and supporters — who will rise to the top?
     fontawesome_icon_name                 : trophy
@@ -56,10 +48,6 @@ features                                  :
   - title                                 : Friends
     description                           : Invite your friends. Clash to claim the crown. Who will be the GOAT of your squad?
     fontawesome_icon_name                 : users
-
-  - title                                 : Live Data Integration
-    description                           : Games, scores, and outcomes update automatically so your picks always stay current.
-    fontawesome_icon_name                 : sync
 
 
 
