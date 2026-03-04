@@ -1,11 +1,26 @@
 <div class="gallery-section">
     <div class="gallery-container">
-        {% for image in site.static_files %}
-            {% if image.path contains '/assets/screenshot/' %}
-                <div class="gallery-item">
-                    <img src="{{ site.baseurl }}{{ image.path }}" alt="App Screenshot"/>
-                </div>
-            {% endif %}
-        {% endfor %}
+
+        <div class="gallery-item">
+            <img src="{{ site.baseurl }}/assets/screenshot/image1.png" alt="Game Modes" />
+            <div class="gallery-caption">
+                <p>Choose your favorite game mode</p>
+            </div>
+        </div>
+
+        <div class="gallery-item">
+            <img src="{{ site.baseurl }}/assets/screenshot/image4.png" alt="Leaderboard" />
+            <div class="gallery-caption">
+                <p>Compare how you measure up to your opponents</p>
+            </div>
+        </div>
+
+        <div class="gallery-item">
+            <img src="{{ site.baseurl }}/assets/screenshot/image5.png" alt="Stats" />
+            <div class="gallery-caption">
+                <p>Track your personal stats</p>
+            </div>
+        </div>
+
     </div>
 </div>
