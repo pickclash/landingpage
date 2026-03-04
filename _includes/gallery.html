@@ -1,0 +1,11 @@
+<div class="gallery-section">
+    <div class="gallery-container">
+        {% for image in site.static_files %}
+            {% if image.path contains '/assets/screenshot/' %}
+                <div class="gallery-item">
+                    <img src="{{ site.baseurl }}{{ image.path }}" alt="App Screenshot"/>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
